@@ -1,1 +1,1 @@
-![Hintergrund](Hintergrund.png)
+![Hintergrund](../Hintergrund.png)
